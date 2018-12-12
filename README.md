@@ -10,3 +10,5 @@ test_cmake_muti: cmake to compile muti file
 
 test_cmake_lit: subderectories  and stablish a library
 
+CMake ：https://zhuanlan.zhihu.com/p/52231167
+
