@@ -1,3 +1,5 @@
+#cmake由浅入深，入门代码
+
 # cmake_htfhxx
 
 test_muti: g++ to compile muti files
